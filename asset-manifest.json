@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/polanco/static/js/main.ddd00354.chunk.js",
+    "main.js.map": "/polanco/static/js/main.ddd00354.chunk.js.map",
+    "runtime-main.js": "/polanco/static/js/runtime-main.7b5c163f.js",
+    "runtime-main.js.map": "/polanco/static/js/runtime-main.7b5c163f.js.map",
+    "static/css/2.54370922.chunk.css": "/polanco/static/css/2.54370922.chunk.css",
+    "static/js/2.4a458d6c.chunk.js": "/polanco/static/js/2.4a458d6c.chunk.js",
+    "static/js/2.4a458d6c.chunk.js.map": "/polanco/static/js/2.4a458d6c.chunk.js.map",
+    "index.html": "/polanco/index.html",
+    "static/css/2.54370922.chunk.css.map": "/polanco/static/css/2.54370922.chunk.css.map",
+    "static/js/2.4a458d6c.chunk.js.LICENSE.txt": "/polanco/static/js/2.4a458d6c.chunk.js.LICENSE.txt",
+    "static/media/canal10.917c2ae2.png": "/polanco/static/media/canal10.917c2ae2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b5c163f.js",
+    "static/css/2.54370922.chunk.css",
+    "static/js/2.4a458d6c.chunk.js",
+    "static/js/main.ddd00354.chunk.js"
+  ]
+}
